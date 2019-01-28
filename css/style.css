@@ -23,7 +23,7 @@ body {
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  background: #FED0D1;
+  background: #000;
 }
 h1 {
   text-align: center;
